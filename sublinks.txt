@@ -10,3 +10,9 @@ vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.17.147.22:443?encryption=none&type=xhttp&mode=stream-one&host=www.middle.cc.cd&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&fp=firefox&sni=www.middle.cc.cd&alpn=h3,h2,http/1.1#All%20Operators%204
 
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.16.72.70:443?encryption=none&type=xhttp&mode=stream-one&host=www.middle.cc.cd&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&fp=firefox&sni=www.middle.cc.cd&alpn=h3,h2,http/1.1#All%20Operators%205
+
+trojan://fxs1yHK6N8@45.130.125.156:8080?type=ws&host=s4.aananas.ir&path=/db&security=none#All%20Operators%206
+
+trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&host=s3.aananas.ir&path=/da&security=none#All%20Operators%207
+
+vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/&security=tls&sni=default.ssl.fastly.net#All%20Operators%208
