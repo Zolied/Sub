@@ -2,4 +2,6 @@ vless://7042eac5-3eeb-4b82-957a-8dbb1052bafc@188.114.97.6:443?encryption=none&se
 
 vless://e7d3fb75-034f-4f3f-83d6-33845dafa81c@fast.cd-tur4.ir:443?encryption=none&type=ws&host=pan1.global.ssl.fastly.net&path=/&security=tls&sni=default.ssl.fastly.net#Hamrah
 
+vless://97d1c3e3-36c5-49aa-a6f2-db286c23a2c1@lla.monicam.bio:11403?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=google-analytics.com&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&spx=/#Hamrah%202
+
 vless://7042eac5-3eeb-4b82-957a-8dbb1052bafc@188.114.97.6:443?encryption=none&type=ws&host=tight-mode-aa27.rolid-dih84.workers.dev&path=/eyJqdW5rIjoiUndhMmVtSW9kQ29ubG9qIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed%3D2560&security=tls&fp=chrome&sni=TIgHt-MoDE-AA27.roLID-Dih84.WoRKErS.DEv&alpn=http/1.1#Modem
