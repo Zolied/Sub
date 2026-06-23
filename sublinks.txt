@@ -8,3 +8,5 @@ trojan://MiTiVPN@89.116.180.49:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2
 trojan://MiTiVPN@188.114.96.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fusa%3Dmitivpn#8
 trojan://MiTiVPN@188.114.97.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fde%3Dmitivpn#9
 trojan://MiTiVPN@188.114.97.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fnl%3Dmitivpn#10
+vless://Masir_Sefid@37.156.46.193:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=%2Fx9v13tGqXqfOiWp&type=tcp&headerType=none#11
+vless://Masir_Sefid@37.156.46.193:8443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=%2Fx9v13tGqXqfOiWp&type=tcp&headerType=none#12
