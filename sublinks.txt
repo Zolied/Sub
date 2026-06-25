@@ -1,12 +1,2 @@
-vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.2:443?encryption=none&security=tls&sni=www.chinns.ccwu.cc&insecure=0&allowInsecure=0&type=xhttp&host=www.chinns.ccwu.cc&path=%2Fa%2Fv----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&mode=stream-one#1
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=newip.global.ssl.fastly.neT.&path=%2F#2
-trojan://P6oS8vzFbu@45.130.125.2:443?security=tls&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=sb.farxmode.ir&path=%2Fdb#3
-trojan://7002R3Gxo1@45.130.125.2:443?security=tls&sni=sa.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=sa.farxmode.ir&path=%2Fda#4
-trojan://MiTiVPN@172.66.47.69:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fde%3Dmitivpn#5
-trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fusa%3Dmitivpn#6
-trojan://MiTiVPN@89.116.180.49:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fnl%3Dmitivpn#7
-trojan://MiTiVPN@188.114.96.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fusa%3Dmitivpn#8
-trojan://MiTiVPN@188.114.97.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fde%3Dmitivpn#9
-trojan://MiTiVPN@188.114.97.6:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fnl%3Dmitivpn#10
-vless://Masir_Sefid@37.156.46.193:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=%2Fx9v13tGqXqfOiWp&type=tcp&headerType=none#11
-vless://Masir_Sefid@37.156.46.193:8443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&sid=082b5cbbd0d4f2fa&spx=%2Fx9v13tGqXqfOiWp&type=tcp&headerType=none#12
+trojan://MiTiVPN@151.101.193.242:443?security=tls&sni=f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=f6r.ir&path=%2Fusa%3Dmitivpn#1
+trojan://MiTiVPN@151.101.1.242:443?security=tls&sni=www.f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2Fde%3Dmitivpn#2
