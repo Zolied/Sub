@@ -10,3 +10,9 @@ trojan://Mitivpn@151.101.110.219:443?type=ws&host=3-mitivpn.global.ssl.fastly.ne
 trojan://Mitivpn@151.101.56.6:443?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly%3Dmitivpn&security=tls&fp=firefox&sni=ssl.fastly.com&alpn=http/1.1#8*
 trojan://Mitivpn@151.101.0.0:80?type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/ed%3Dmitivpn&security=none#9*
 trojan://Mitivpn@151.101.242.172:80?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/ed%3Dmitivpn&security=none#10*
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed%3D2560&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#(1)
+trojan://MiTiVPN@199.181.197.176:443?type=ws&host=95r.ir&path=/MiTiVPN%3DfL&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(2)
+trojan://MiTiVPN@45.131.4.118:443?type=ws&host=95r.ir&path=/MiTiVPN%3DSe&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(3)
+trojan://MiTiVPN@91.193.58.201:443?type=ws&host=95r.ir&path=/MiTiVPN%3DNL&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(4)
+trojan://MITIVPN@94.140.0.100:443?type=ws&host=95r.ir&path=/MiTiVPN%3DUsa&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(5)
+trojan://MITIVPN@164.38.155.135:443?type=ws&host=95r.ir&path=/MiTiVPN%3DDe&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(6)
