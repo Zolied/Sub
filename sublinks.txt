@@ -6,3 +6,7 @@ trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&a
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#6%2A
 trojan://Mitivpn@151.101.56.6:443?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/de%3Dmitivpn&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2#5*
 trojan://Mitivpn@151.101.110.219:443?type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de%3Dmitivpn&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=http/1.1#6*
+trojan://Mitivpn@151.101.110.219:443?type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de%3Dmitivpn&security=tls&fp=firefox&sni=global.fastly.com&alpn=http/1.1#7*
+trojan://Mitivpn@151.101.56.6:443?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly%3Dmitivpn&security=tls&fp=firefox&sni=ssl.fastly.com&alpn=http/1.1#8*
+trojan://Mitivpn@151.101.0.0:80?type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/ed%3Dmitivpn&security=none#9*
+trojan://Mitivpn@151.101.242.172:80?type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/ed%3Dmitivpn&security=none#10*
