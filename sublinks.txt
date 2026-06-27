@@ -17,3 +17,4 @@ trojan://MiTiVPN@91.193.58.201:443?type=ws&host=95r.ir&path=/MiTiVPN%3DNL&securi
 trojan://MITIVPN@94.140.0.100:443?type=ws&host=95r.ir&path=/MiTiVPN%3DUsa&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(5)
 trojan://MITIVPN@164.38.155.135:443?type=ws&host=95r.ir&path=/MiTiVPN%3DDe&security=tls&fp=firefox&sni=95r.ir&alpn=http/1.1#(6)
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed%3D2560&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#%23
+vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.2:443?encryption=none&type=xhttp&mode=stream-one&host=www.chinns.ccwu.cc&path=/a/v----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&sni=www.chinns.ccwu.cc#1%E2%80%A2
