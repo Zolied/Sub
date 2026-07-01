@@ -23,3 +23,8 @@ vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?encryption=none
 trojan://6g3hTs47jO@45.130.125.2:443?type=ws&host=sg.farxmode.ir&path=/da&security=tls&fp=firefox&sni=sg.farxmode.ir#modem2
 trojan://ZzE0ZXql6p@45.130.125.2:443?type=ws&host=sh.farxmode.ir&path=/db&security=tls&fp=firefox&sni=sh.farxmode.ir#modem3
 vless://7042eac5-3eeb-4b82-957a-8dbb1052bafc@188.114.97.6:443?encryption=none&type=ws&host=tight-mode-aa27.rolid-dih84.workers.dev&path=/eyJqdW5rIjoiU2JTZFhmUFcxaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=TIGHt-MOdE-AA27.roliD-Dih84.WOrKers.dEv&alpn=http/1.1#Irancel
+trojan://MITIVPN@104.16.72.41:443?type=ws&host=PioHosting.ir&path=/MiTiVPN%3DDe&security=tls&fp=firefox&sni=PioHosting.ir&alpn=http/1.1#VIP1
+trojan://MITIVPN@45.131.4.115:443?type=ws&host=PioHosting.ir&path=/MiTiVPN%3DUsa&security=tls&fp=firefox&sni=PioHosting.ir&alpn=http/1.1#VIP2
+trojan://MiTiVPN@91.193.58.201:443?type=ws&host=PioHosting.ir&path=/MiTiVPN%3DNL&security=tls&fp=firefox&sni=PioHosting.ir&alpn=http/1.1#VIP3
+trojan://MiTiVPN@91.193.58.201:443?type=ws&host=PioHosting.ir&path=/MiTiVPN%3DfL&security=tls&fp=firefox&sni=PioHosting.ir&alpn=http/1.1#VIP4
+trojan://MiTiVPN@104.16.72.41:443?type=ws&host=PioHosting.ir&path=/MiTiVPN%3DSe&security=tls&fp=firefox&sni=PioHosting.ir&alpn=http/1.1#VIP5
